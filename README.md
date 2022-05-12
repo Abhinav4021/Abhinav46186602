@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinav
-- 👀 I’m interested in software developing 
+- 👀 I’m Passionate about technology, and want to use it to design scalable solutions 
 - 🌱 I’m currently learning Dot Net Framework and Azure cloud...
 - 📫 Reach me at abhinavkr356@gmail.com
 <!---
